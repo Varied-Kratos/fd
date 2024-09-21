@@ -1,6 +1,5 @@
 123
-<<<<<<< HEAD
-=======
 456
 a;sdkfj
->>>>>>> fff
+mastermastert master
+ку
