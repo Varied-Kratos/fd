@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 123
 456
 a;sdkfj
 mastermastert master
 ку
-=======
+
 
 
 
@@ -16,4 +16,4 @@ mastermastert master
 
 
 ;akldjfkjf;eijdkfjieijfkdjfhgngjojj;jf;adkjf
->>>>>>> bbb
+change 1
